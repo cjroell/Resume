@@ -1,3 +1,5 @@
-To run on Windows, make sure the .exe file and _Data folder are in the same directory and run the exe.
+Download the necessary files/folders.
 
-To run on mac, use the .app content.
+To use on Windows, make sure the .exe file and _Data folder are in the same directory and run the exe.
+
+To use on mac, run the .app content.
